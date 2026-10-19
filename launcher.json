@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "0.5.0-alpha.10",
-  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.10/Breakline-Client-Setup.exe",
-  "sha256": "0ad7fe72040e30e359edf3a8427300537aedbd6abf00dde0b2365e92712f1a3f",
+  "version": "0.5.0-alpha.11",
+  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.11/Breakline-Client-Setup.exe",
+  "sha256": "3e264822ba5bea9cd3bb89f3d2dba430bcad7ebb2feabb93c0eacc7db7e2b65c",
   "notes": [
     "Breakline Client updates itself from now on: use CHECK FOR UPDATES / UPDATE in the top bar.",
     "Public and Dev have separate servers."
