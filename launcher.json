@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "0.5.0-alpha.10",
+  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.10/Breakline-Client-Setup.exe",
+  "sha256": "0ad7fe72040e30e359edf3a8427300537aedbd6abf00dde0b2365e92712f1a3f",
+  "notes": [
+    "Breakline Client updates itself from now on: use CHECK FOR UPDATES / UPDATE in the top bar.",
+    "Public and Dev have separate servers."
+  ]
+}
