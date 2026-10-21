@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.5.0-alpha.12",
+  "version": "0.5.0-alpha.13",
   "devOpen": false,
-  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.12/Breakline-Client-Setup.exe",
-  "sha256": "f708dd6aa8070b4d9169b379409dafa8b28acaa2d092cc5db1c8ed274ef61d94",
+  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.13/Breakline-Client-Setup.exe",
+  "sha256": "cc5b3b5b7d60fc9c05bf8a1a155f7799c34c1c4784680e0f7e11890aeb710ad9",
   "notes": [
     "Breakline Client updates itself automatically (CHECK FOR UPDATES in the top bar checks right away).",
     "Dev is locked for now; play BUNKERED on Public."
