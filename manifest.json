@@ -1,393 +1,393 @@
 {
   "schema": 1,
   "channel": "dev",
-  "version": "0.5.0-dev.76",
-  "buildId": "dev-20261029.93",
+  "version": "0.5.0-dev.77",
+  "buildId": "dev-20261029.94",
   "executable": "BreaklineUE5/Binaries/Win64/BreaklineUE5.exe",
   "files": [
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_atomic-mt-x64.dll",
       "size": 28088,
       "sha256": "098084d87f82323e8e908f12f61446a5c23535ea5c921ca187e3ffe6dab72481",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-000-boost_atomic-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-000-boost_atomic-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_chrono-mt-x64.dll",
       "size": 45496,
       "sha256": "f26877836940d40d5fbb31f8fca40d8d62ef166ee8508442691857a232746077",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-001-boost_chrono-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-001-boost_chrono-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_container-mt-x64.dll",
       "size": 65464,
       "sha256": "0215ef9a551693fbcd7543ca093576fd4dfc5066488ac5d549b60809c3df119e",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-002-boost_container-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-002-boost_container-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_filesystem-mt-x64.dll",
       "size": 176568,
       "sha256": "ac72faea3e1b75efeea0157821384c118e9123050eb77b4b44f32ea68942af01",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-003-boost_filesystem-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-003-boost_filesystem-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_graph-mt-x64.dll",
       "size": 329656,
       "sha256": "f4f1edd6a168d07700fb4799606957e6fb3c4574f8b42b03ff91c47b99c729d5",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-004-boost_graph-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-004-boost_graph-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_iostreams-mt-x64.dll",
       "size": 58808,
       "sha256": "43bb5719cbb92513430753074e890b20e32e34842fe79766e2ca0fd0651955b9",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-005-boost_iostreams-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-005-boost_iostreams-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_program_options-mt-x64.dll",
       "size": 374712,
       "sha256": "4b2ff1c3c165e2a3db3690dd289c717bd02225adc67b36d7f6cca255ff3ffef4",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-006-boost_program_options-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-006-boost_program_options-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_python311-mt-x64.dll",
       "size": 207800,
       "sha256": "33bebdc83e18473085d33c5aece0a34a691338b8f9aa4b17aa6764f72fd3bc98",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-007-boost_python311-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-007-boost_python311-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_random-mt-x64.dll",
       "size": 40888,
       "sha256": "7f359971cb39817ddbb690a7b61ed84c25a9e69d4b9b9fd3a952331bc95b9db5",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-008-boost_random-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-008-boost_random-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_regex-mt-x64.dll",
       "size": 251832,
       "sha256": "5af713fc06be8a074c276643c82f828abd81e713173a5732ae235dee777d9510",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-009-boost_regex-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-009-boost_regex-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_system-mt-x64.dll",
       "size": 20408,
       "sha256": "b079a59daa688b3a564f32de2998887d874383cb62a3a1e87de49c45f66e3b04",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-010-boost_system-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-010-boost_system-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/boost_thread-mt-x64.dll",
       "size": 85432,
       "sha256": "a04301a8f1a5b781c75ee9adf29b64a9b12b674de1c88f936d798d43939c3def",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-011-boost_thread-mt-x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-011-boost_thread-mt-x64.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/BreaklineUE5.exe",
-      "size": 342107648,
-      "sha256": "26b8d3960bbf369ebc020573f0efaaf048788df6a455d18ee9e7054347328e93",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-012-BreaklineUE5.exe?download=1"
+      "size": 342162944,
+      "sha256": "d07f9991d982edf2b1fec7b8ae97643efe12c70ebf531cb1b16d8161ed33b651",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-012-BreaklineUE5.exe?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/D3D12/x64/D3D12Core.dll",
       "size": 4831768,
       "sha256": "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-013-D3D12Core.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-013-D3D12Core.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
       "size": 4943344,
       "sha256": "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-014-d3d12SDKLayers.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-014-d3d12SDKLayers.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/DML/x64/DirectML.dll",
       "size": 18538488,
       "sha256": "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-015-DirectML.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-015-DirectML.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/tbb12.dll",
       "size": 342456,
       "sha256": "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-016-tbb12.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-016-tbb12.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Binaries/Win64/tbbmalloc.dll",
       "size": 117176,
       "sha256": "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-017-tbbmalloc.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-017-tbbmalloc.dll?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Movies/MenuBRoll.mp4",
       "size": 33960322,
       "sha256": "408ee0848f16bc5254990e1eec2c1d19c473da15bcf24b69f4277a27c72a9867",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-018-MenuBRoll.mp4?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-018-MenuBRoll.mp4?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Paks/BreaklineUE5-Windows.pak",
-      "size": 11547253,
-      "sha256": "224796a9974b432c9708cbddfb07ecf6e770198cf24bcb03890698d9e117460f",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-019-BreaklineUE5-Windows.pak?download=1"
+      "size": 11549305,
+      "sha256": "038cb3668f5eb5a7d2838d09854fd0953502cf0d4b231dbada23c5439d7bb7fb",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-019-BreaklineUE5-Windows.pak?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Paks/BreaklineUE5-Windows.ucas",
-      "size": 1593400400,
-      "sha256": "1624bf0ac6c2ef8b5411794b450713d03b8b845641d050deb17643128d2c05a5",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-020-BreaklineUE5-Windows.ucas?download=1"
+      "size": 1719249504,
+      "sha256": "661b4dfd3e95aa92391d29b0a9e666d3f4885204551f0b584008fbcfe5cfe7bd",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-020-BreaklineUE5-Windows.ucas?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Paks/BreaklineUE5-Windows.utoc",
-      "size": 1103971,
-      "sha256": "8d9ddbab6592f172406dd5d27d960d2c970c7ae3747405dbae2ea60d076cc0e4",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-021-BreaklineUE5-Windows.utoc?download=1"
+      "size": 1158467,
+      "sha256": "26e518447394fec7b8c5b64dc7d3d063938aeb0e4fd4a1825268f8583981c2f2",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-021-BreaklineUE5-Windows.utoc?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Paks/global.ucas",
       "size": 3357248,
       "sha256": "1339acbe38478e306e7f6e6f48bfad6f60f45d04ac602258becf618a33619715",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-022-global.ucas?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-022-global.ucas?download=1"
     },
     {
       "path": "BreaklineUE5/Content/Paks/global.utoc",
       "size": 818,
       "sha256": "f044ab66a5a46f89ccc202a06e8185dd019f81204a184539628ccd3f8c8d6e2b",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-023-global.utoc?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-023-global.utoc?download=1"
     },
     {
       "path": "BreaklineUE5.exe",
       "size": 171520,
       "sha256": "ffdb53c4d074d86d6b745049d02bd26c36a955764b75cb64686b00425a62858c",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-024-BreaklineUE5.exe?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-024-BreaklineUE5.exe?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
       "size": 2232688,
       "sha256": "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-025-dbghelp.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-025-dbghelp.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
       "size": 2547080,
       "sha256": "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-026-msquic.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-026-msquic.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
       "size": 5799016,
       "sha256": "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-027-GFSDK_Aftermath_Lib.x64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-027-GFSDK_Aftermath_Lib.x64.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
       "size": 59832,
       "sha256": "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-028-libogg_64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-028-libogg_64.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
       "size": 1724856,
       "sha256": "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-029-libvorbis_64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-029-libvorbis_64.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
       "size": 48568,
       "sha256": "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-030-libvorbisfile_64.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-030-libvorbisfile_64.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
       "size": 8161680,
       "sha256": "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-031-VkLayer_api_dump.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-031-VkLayer_api_dump.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
       "size": 13848,
       "sha256": "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-032-VkLayer_api_dump.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-032-VkLayer_api_dump.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll",
       "size": 2890128,
       "sha256": "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-033-VkLayer_crash_diagnostic.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-033-VkLayer_crash_diagnostic.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json",
       "size": 23055,
       "sha256": "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-034-VkLayer_crash_diagnostic.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-034-VkLayer_crash_diagnostic.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
       "size": 8166288,
       "sha256": "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-035-VkLayer_gfxreconstruct.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-035-VkLayer_gfxreconstruct.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
       "size": 28099,
       "sha256": "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-036-VkLayer_gfxreconstruct.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-036-VkLayer_gfxreconstruct.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
       "size": 1485200,
       "sha256": "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-037-VkLayer_khronos_profiles.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-037-VkLayer_khronos_profiles.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
       "size": 66696,
       "sha256": "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-038-VkLayer_khronos_profiles.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-038-VkLayer_khronos_profiles.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll",
       "size": 415632,
       "sha256": "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-039-VkLayer_khronos_shader_object.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-039-VkLayer_khronos_shader_object.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json",
       "size": 4455,
       "sha256": "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-040-VkLayer_khronos_shader_object.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-040-VkLayer_khronos_shader_object.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
       "size": 397192,
       "sha256": "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-041-VkLayer_khronos_synchronization2.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-041-VkLayer_khronos_synchronization2.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
       "size": 1910,
       "sha256": "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-042-VkLayer_khronos_synchronization2.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-042-VkLayer_khronos_synchronization2.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
       "size": 19509136,
       "sha256": "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-043-VkLayer_khronos_validation.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-043-VkLayer_khronos_validation.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
       "size": 95917,
       "sha256": "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-044-VkLayer_khronos_validation.json?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-044-VkLayer_khronos_validation.json?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
       "size": 69056,
       "sha256": "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-045-WinPixEventRuntime.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-045-WinPixEventRuntime.dll?download=1"
     },
     {
       "path": "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
       "size": 858152,
       "sha256": "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-046-xaudio2_9redist.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-046-xaudio2_9redist.dll?download=1"
     },
     {
       "path": "Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll",
       "size": 19559312,
       "sha256": "918c123ca19151344dfd1958ddd0125ebabc4d48af7fa53c951578f8bcd71375",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-047-EOSSDK-Win64-Shipping.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-047-EOSSDK-Win64-Shipping.dll?download=1"
     },
     {
       "path": "Engine/Config/StagedBuild_BreaklineUE5.ini",
       "size": 3,
       "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-048-StagedBuild_BreaklineUE5.ini?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-048-StagedBuild_BreaklineUE5.ini?download=1"
     },
     {
       "path": "Engine/Content/Renderer/TessellationTable.bin",
       "size": 259568,
       "sha256": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-049-TessellationTable.bin?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-049-TessellationTable.bin?download=1"
     },
     {
       "path": "Engine/Content/Slate/Cursor/invisible.cur",
       "size": 326,
       "sha256": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-050-invisible.cur?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-050-invisible.cur?download=1"
     },
     {
       "path": "Engine/Content/SlateDebug/Fonts/LastResort.tps",
       "size": 930,
       "sha256": "0f775fa99d05e21d43d2d06d55982b23dcdccdb512a9a5a07aff674f212c41b8",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-051-LastResort.tps?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-051-LastResort.tps?download=1"
     },
     {
       "path": "Engine/Content/SlateDebug/Fonts/LastResort.ttf",
       "size": 5395052,
       "sha256": "fff0f8de0b868b964950fe97c9b60f893e9bc85a4f90b3629c5693db058b97b9",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-052-LastResort.ttf?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-052-LastResort.ttf?download=1"
     },
     {
       "path": "Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
       "size": 195428,
       "sha256": "eb599b5171e99d7c2e35732abf9525baeb39b9c2ac86619522f307c57cc90384",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-053-GPUDumpViewer.html?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-053-GPUDumpViewer.html?download=1"
     },
     {
       "path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
       "size": 879,
       "sha256": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-054-OpenGPUDumpViewer.bat?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-054-OpenGPUDumpViewer.bat?download=1"
     },
     {
       "path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
       "size": 2165,
       "sha256": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-055-OpenGPUDumpViewer.sh?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-055-OpenGPUDumpViewer.sh?download=1"
     },
     {
       "path": "Engine/Extras/Redist/en-us/vc_redist.arm64.exe",
       "size": 11751688,
       "sha256": "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-056-vc_redist.arm64.exe?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-056-vc_redist.arm64.exe?download=1"
     },
     {
       "path": "Engine/Extras/Redist/en-us/vc_redist.x64.exe",
       "size": 18569648,
       "sha256": "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-057-vc_redist.x64.exe?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-057-vc_redist.x64.exe?download=1"
     },
     {
       "path": "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
       "size": 17339384,
       "sha256": "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-058-onnxruntime.dll?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-058-onnxruntime.dll?download=1"
     },
     {
       "path": "game-version.json",
       "size": 83,
-      "sha256": "3dcac9f3c7c5aee989c2bd027816b02fa890f37921715a33cf93bb252f3bfc3f",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-059-game-version.json?download=1"
+      "sha256": "bc38f85718ed9610f1784e3081cf2911249a102ff3531052fed51e9fe6dbb3cd",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-059-game-version.json?download=1"
     },
     {
       "path": "Manifest_DebugFiles_Win64.txt",
       "size": 441,
-      "sha256": "5b1d099cbf294f09198108bfdf97ea40a5966d8aed94c3c9bc3c00f54848a490",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-060-Manifest_DebugFiles_Win64.txt?download=1"
+      "sha256": "35c62dd44464b4c7655624e3d6f3d34064303deff159202131e5d4a6c676de65",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-060-Manifest_DebugFiles_Win64.txt?download=1"
     },
     {
       "path": "Manifest_NonUFSFiles_Win64.txt",
       "size": 4162,
-      "sha256": "fcf4e3dbddd56bbf4dd4343374d9fc679dd46ed88e38ebec7ffa059d90dd9172",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-061-Manifest_NonUFSFiles_Win64.txt?download=1"
+      "sha256": "8f26fe6ae2ebb233faa515d564c20ef26aead27ac98d573ec38efe23fd51dd15",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-061-Manifest_NonUFSFiles_Win64.txt?download=1"
     },
     {
       "path": "Manifest_UFSFiles_Win64.txt",
-      "size": 409264,
-      "sha256": "b02ec6d2d565ae562bbf0ae98044e297646a49011753fb380bd9be0a6d7ee040",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-062-Manifest_UFSFiles_Win64.txt?download=1"
+      "size": 422918,
+      "sha256": "c8c62fb66c48f10fa7196f204e13b98dcef82c93b96a48b2f9781ba33ffbef29",
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-062-Manifest_UFSFiles_Win64.txt?download=1"
     },
     {
       "path": "NOTICES.txt",
       "size": 111,
       "sha256": "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8",
-      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.93/game-063-NOTICES.txt?download=1"
+      "url": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/unreal-dev-20261029.94/game-063-NOTICES.txt?download=1"
     }
   ]
 }
