@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.5.0-alpha.17",
+  "version": "0.5.0-alpha.18",
   "devOpen": false,
-  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.17/Breakline-Client-Setup.exe",
-  "sha256": "04417ba6aab100cff4149173b5a68ee14bd05aff7b324c48cf27d42be45e97c8",
+  "setup": "https://github.com/BreaklineStudios/Breakline-Client-Releases/releases/download/breakline-client-0.5.0-alpha.18/Breakline-Client-Setup.exe",
+  "sha256": "488c8284d4302955d515385e4db44d5e19af400de27ad65ddaab97faad5bcc14",
   "notes": [
     "Breakline Client updates itself automatically.",
-    "alpha.17: REPAIR puts back missing or damaged game files."
+    "alpha.18: fixes the launcher update getting stuck (\"Breakline Client.exe is being used\")."
   ]
 }
